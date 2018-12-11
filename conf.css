@@ -1,0 +1,44 @@
+@charset "utf-8";
+body{
+    background-color: green;
+}
+h1{
+    color: white;
+    text-align: left;
+    text-shadow: black 5px 5px;
+    text-transform: uppercase;
+}
+.p1{
+    border: black 10px solid;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: white;
+}
+.p2{
+    border: hsl(17, 89%, 32%) 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50%;
+    padding: 10px;
+    background-color: hsl(17, 49%, 53%);
+    color: white;
+}
+.p3{
+    border: hsl(34, 77%, 24%) 15px solid;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 50%;
+    padding: 5px;
+    background-color: hsl(34, 90%, 41%);
+    color: white;
+}
+.p4{
+    border: hsl(207, 65%, 45%) 5px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: hsl(207, 69%, 22%);
+    color: white;
+}
